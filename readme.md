@@ -8,10 +8,10 @@ Antes de empezar a trabajar, debés descargar el proyecto en tu computadora loca
 
 1. **Abrí la terminal** (o consola de comandos) en la carpeta de tu computadora donde quieras guardar el proyecto.
 
-1. **Cloná el repositorio** ejecutando el siguiente comando (reemplazá la URL por la del repositorio del ejercicio):
+1. **Cloná el repositorio** ejecutando el siguiente comando:
 
     ```bash
-    git clone https://github.com/usuario/nombre-del-repositorio.git
+    git clone https://github.com/santiagoverrier-neoland/practicaDOM.git
     ```
 
 1. **Ingresá a la carpeta** que se acaba de crear:
