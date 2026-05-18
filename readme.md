@@ -6,7 +6,7 @@ Tomando como base el código HTML provisto para la página de un producto, reali
 
 Antes de empezar a trabajar, debés descargar el proyecto en tu computadora local siguiendo estos pasos:
 
-1. **Abrí la terminal** (o consola de comandos) en la carpeta de tu computadora donde quieras guardar el proyecto.
+1. **Abrí la terminal (desde VS Code o pro afuera)** (o consola de comandos) en la carpeta de tu computadora donde quieras guardar el proyecto.
 
 2. **Cloná el repositorio** ejecutando el siguiente comando:
 
@@ -17,7 +17,7 @@ Antes de empezar a trabajar, debés descargar el proyecto en tu computadora loca
 3. **Ingresá a la carpeta** que se acaba de crear:
 
     ```bash
-    cd nombre-del-repositorio
+    cd practicaDOM
     ```
 
 4. **Eliminá la referencia** al repositorio original para poder conectar el proyecto con uno propio:
@@ -42,7 +42,7 @@ Antes de empezar a trabajar, debés descargar el proyecto en tu computadora loca
 
 7. **Abrí el proyecto** en tu editor de código.
 
-8. Cuando finalices el ejercicio, realizá los comandos necesarios para guardar y subir los cambios a GitHub.
+8. **Cuando finalices el ejercicio**, realizá los comandos necesarios para guardar y subir los cambios a GitHub.
 
     ```bash
     git add .
