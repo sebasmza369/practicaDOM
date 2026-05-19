@@ -6,15 +6,49 @@ Tomando como base el código HTML provisto para la página de un producto, reali
 
 Antes de empezar a trabajar, debés descargar el proyecto en tu computadora local siguiendo estos pasos:
 
-1.**Abrí la terminal** (o consola de comandos) en la carpeta de tu computadora donde quieras guardar el proyecto.
-2.**Cloná el repositorio** ejecutando el siguiente comando (reemplazá la URL por la del repositorio del ejercicio):
+1. **Abrí la terminal (desde VS Code o pro afuera)** (o consola de comandos) en la carpeta de tu computadora donde quieras guardar el proyecto.
+
+2. **Cloná el repositorio** ejecutando el siguiente comando:
+
     ```bash
-    git clone [https://github.com/usuario/nombre-del-repositorio.git](https://github.com/usuario/nombre-del-repositorio.git)
-3.  **Ingresá a la carpeta** que se acaba de crear:
-    ```bash
-    cd nombre-del-repositorio
+    git clone https://github.com/santiagoverrier-neoland/practicaDOM.git
     ```
-4.  **Abrí el proyecto** en tu editor de código
+
+3. **Ingresá a la carpeta** que se acaba de crear:
+
+    ```bash
+    cd practicaDOM
+    ```
+
+4. **Eliminá la referencia** al repositorio original para poder conectar el proyecto con uno propio:
+
+    ```bash
+    git remote remove origin
+    ```
+
+5. **Creá un nuevo repositorio** en tu cuenta de GitHub.
+
+    Ejemplo:
+
+    ```text
+    tp-dom-nombre-apellido
+    ```
+
+6. **Conectá el proyecto local** con tu nuevo repositorio:
+
+    ```bash
+    git remote add origin https://github.com/TU-USUARIO/tp-dom-nombre-apellido.git
+    ```
+
+7. **Abrí el proyecto** en tu editor de código.
+
+8. **Cuando finalices el ejercicio**, realizá los comandos necesarios para guardar y subir los cambios a GitHub.
+
+    ```bash
+    git add .
+    git commit -m "Entrega ejercicio DOM"
+    git push -u origin main
+    ```
 
 ## 📋 Consignas a realizar
 
