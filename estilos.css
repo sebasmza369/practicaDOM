@@ -10,10 +10,10 @@
 }
 
 
-.mostrar {
-   display: block
-}
 
+#especificaciones.mostrar{
+   display: block;
+}
 
 #imagenPortada {
    width: 100%;
